@@ -1,0 +1,122 @@
+<?php
+/**********************************************************************
+ * Simple SEO
+ **********************************************************************
+ * @author       Oleg Budrin <support@mofsy.ru>
+ * @copyright    Copyright (c) 2014-2016, Oleg Budrin (Mofsy)
+ * @support      Alaev.info http://alaev.info/blog/post/5143
+ *********************************************************************/
+
+$ss_config = array(
+
+  'online' => '0',
+
+  'title' => '0',
+
+  'title_main' => '0',
+
+  'title_main_input' => '%site_title%',
+
+  'title_main_pagination' => '0',
+
+  'title_main_pagination_input' => '%site_name% %page%',
+
+  'title_cat' => '0',
+
+  'title_cat_input' => '%cat_title%',
+
+  'title_cat_pagination' => '0',
+
+  'title_cat_pagination_input' => '%cat_name% %page%',
+
+  'title_news' => '0',
+
+  'title_news_input' => '',
+
+  'title_archives' => '0',
+
+  'title_archives_input_year' => '',
+
+  'title_archives_input_month' => '',
+
+  'title_archives_input_day' => '',
+
+  'title_tags' => '0',
+
+  'title_tags_input' => '',
+
+  'title_catalog' => '0',
+
+  'title_catalog_input' => '',
+
+  'title_static' => '0',
+
+  'title_static_input' => '',
+
+  'title_user' => '0',
+
+  'title_user_input' => '',
+
+  'title_pagination_prefix' => ' - страница %page%',
+
+  'descr' => '0',
+
+  'descr_news' => '0',
+
+  'descr_news_input' => '',
+
+  'descr_tags' => '0',
+
+  'descr_tags_input' => '',
+
+  'descr_archives' => '0',
+
+  'descr_archives_input' => '',
+
+  'descr_catalog' => '0',
+
+  'descr_catalog_input' => '',
+
+  'keywords' => '0',
+
+  'keywords_news' => '0',
+
+  'keywords_news_input' => '',
+
+  'keywords_tags' => '0',
+
+  'keywords_tags_input' => '',
+
+  'keywords_archives' => '0',
+
+  'keywords_archives_input' => '',
+
+  'keywords_catalog' => '0',
+
+  'keywords_catalog_input' => '',
+
+  'meta_robots' => '0',
+
+  'meta_robots_input' => '',
+
+  'meta_robots_cat' => '0',
+
+  'meta_robots_tags' => '0',
+
+  'meta_robots_catalog' => '0',
+
+  'meta_robots_archives' => '0',
+
+  'meta_robots_userinfo' => '0',
+
+  'yandex' => '',
+
+  'google' => '',
+
+  'mail' => '',
+
+  'bing' => '',
+
+  'head' => '');
+
+?>
